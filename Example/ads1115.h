@@ -15,18 +15,10 @@
 *
 ******************************************************************************/
 
-#include <stdio.h>
-#include "freertos/FreeRTOS.h"
-#include "freertos/task.h"
-#include "sdkconfig.h"
-#include "driver/timer.h"
-#include <esp_task_wdt.h>
+#ifndef ADS1115_H
+#define ADS1115_H
 
 
 
-void app_main()
-{
+#endif // ifdef ADS1115_H
 
-
-
-}

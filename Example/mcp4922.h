@@ -14,19 +14,10 @@
 * Oct/18/2021, Rohith Shanbhagh, Initial code implementation.
 *
 ******************************************************************************/
-
-#include <stdio.h>
-#include "freertos/FreeRTOS.h"
-#include "freertos/task.h"
-#include "sdkconfig.h"
-#include "driver/timer.h"
-#include <esp_task_wdt.h>
+#ifndef MCP4922_H
+#define MCP4922_H
 
 
 
-void app_main()
-{
-
-
-
-}
+/* Contents Here */
+#endif /* '#endif' of MCP4922_H */
